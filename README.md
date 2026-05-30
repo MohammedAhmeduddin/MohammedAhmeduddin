@@ -37,17 +37,38 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-🎓 **MS Computer Science** — New Jersey Institute of Technology
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=99999&color=00D4FF&center=true&vCenter=true&width=500&lines=Ahmeduddin+Mohammed" alt="Name" />
+</div>
 
-🔬 **Specialization** — Production ML Pipelines · Causal Inference · LLM Agent Systems · Deep Learning
+```python
+class MLEngineer:
+    def __init__(self):
+        self.name        = "Ahmeduddin Mohammed"
+        self.role        = "ML / AI Engineer"
+        self.location    = "Harrison, New Jersey"
+        self.education   = "MS Computer Science — NJIT"
+        self.specialties = [
+            "Production ML Pipelines",
+            "Causal Inference Engines",
+            "LLM Agent Orchestration",
+            "Deep Learning Systems",
+        ]
+        self.stack = {
+            "ML":      ["PyTorch", "LSTM", "Transformer", "XGBoost", "SHAP"],
+            "Causal":  ["DoWhy", "EconML", "CausalForestDML", "PSM", "DiD"],
+            "LLM":     ["LangGraph", "LangChain", "GPT-4o-mini", "RAG", "ChromaDB"],
+            "MLOps":   ["MLflow", "Docker", "GCP Cloud Run", "GitHub Actions"],
+            "Backend": ["FastAPI", "PostgreSQL", "Redis", "Pydantic v2"],
+        }
 
-🚀 **What I build** — ML systems that go beyond the notebook. Every project ships deployed on GCP, tested with 90%+ coverage, and benchmarked with real metrics.
-
-💡 **Current Role** — Jr. ML Engineer @ FL Tech Solutions LLC (Remote)
-
-📍 **Location** — Harrison, New Jersey · Open to Remote
-
-> *ML Engineer specializing in production systems — causal inference, deep learning, and LLM orchestration. Every project ships with full test coverage, real metrics, and a live deployment.*
+    def pitch(self):
+        return """
+        ML Engineer specializing in production systems — causal inference,
+        deep learning, and LLM orchestration. Every project ships with
+        full test coverage, real metrics, and a live deployment.
+        """
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -207,12 +228,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedAhmeduddin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=8b5cf6&text_color=e8f4f8&count_private=true&hide=contribs"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAhmeduddin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=e8f4f8&hide=jupyter+notebook"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=MohammedAhmeduddin&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=8b5cf6&fire=f472b6&currStreakLabel=00d4ff&sideLabels=e8f4f8&dates=4a6580"/>
 
