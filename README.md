@@ -241,7 +241,7 @@ class MLEngineer:
 
 `ML Engineer` `AI Engineer` `Data Scientist` `Applied Research` `Backend Engineer`
 
-**📍 Harrison, NJ · Remote OK · STEM OPT**
+**📍 Harrison, NJ · Remote OK **
 
 <br/>
 
