@@ -2,14 +2,9 @@
 
 <img src="banner.svg" alt="Ahmeduddin Mohammed: ML &amp; AI Engineer" width="100%"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=760&lines=ML+%26+AI+Engineer+%7C+Systems+that+ship;LangGraph+%7C+PyTorch+%7C+XGBoost+%7C+Causal+ML;0.958+AUC+%7C+27+ms+%7C+14M+rows+%7C+GCP+deployed;I+audit+my+own+models+%E2%80%94+and+fix+what+I+find" alt="ML & AI Engineer | Systems that ship" />
-</a>
-
+<!-- Profile badges -->
 <br/>
 
-<!-- Profile badges -->
 <a href="https://ahmed-portfolio-blue.vercel.app">
   <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-00d4ff?style=for-the-badge&logoColor=white" />
 </a>
@@ -31,9 +26,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+## 👋 About Me
 
 <div align="center">
 <img src="terminal.svg" alt="whoami: Ahmeduddin Mohammed, ML & AI Engineer (MS CS, NJIT). Focus: production ML, LLM agents & RAG, causal inference, deep learning. Shipped: CareAgent, LoanLens, SessionScout, LiftLab. Open to ML, AI, GenAI and Forward Deployed roles; startups welcome." width="100%"/>
@@ -50,9 +45,9 @@
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Key Metrics
+## 📈 Key Metrics
 
 <div align="center">
 
@@ -63,9 +58,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> Featured ML Projects
+## 🚀 Featured ML Projects
 
 <div align="center">
 
@@ -161,7 +156,7 @@
 
 `EconML` `DoWhy` `AIPW` `Causal Forest` `scikit-learn` `FastAPI` `Streamlit`
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🧭 How I Build
 
@@ -175,7 +170,7 @@
 | **Bound LLM cost and latency** | CareAgent reuses summaries keyed by a SHA-256 fingerprint of model + prompt + facts, with a 45 s time budget and per-client rate limits |
 | **Ship with CI** | Lint, tests and coverage gates on every pull request |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🗂️ More Projects
 
@@ -190,9 +185,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"> ML / AI Stack
+## 🛠️ ML / AI Stack
 
 <div align="center">
 
@@ -235,7 +230,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 📊 GitHub Stats
 
@@ -249,7 +244,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
 
